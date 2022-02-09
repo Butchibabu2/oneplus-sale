@@ -20,6 +20,12 @@
     </build>
 
     <dependencies>
+        <dependency>
+        <groupId><yourGroupID></groupId>
+        <artifactId><yourArtifactId></artifactId>
+        <version><yourVersion></version>
+    </dependency>
+        </dependency>
         <!-- == Begin TERASOLUNA == -->
         <dependency>
             <groupId>org.terasoluna.gfw</groupId>
